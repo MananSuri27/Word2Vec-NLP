@@ -8,5 +8,8 @@ Hypothetical features to understand word embeddings![Hypothetical features to un
 
 We can easily train word2vec word embeddings using Gensim, which is, *“is a free open-source Python library for representing documents as semantic vectors, as efficiently (computer-wise) and painlessly (human-wise) as possible.”*
 
+In the above notebook, I've demonstrated an implementation of word2vec using the Gensim library.
+
+
 
 
